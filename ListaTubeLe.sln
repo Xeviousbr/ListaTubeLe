@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaTubeLe", "ListaTubeLe.csproj", "{2B8A3BC2-4496-4D66-939F-6E187A4337AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8A3BC2-4496-4D66-939F-6E187A4337AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8A3BC2-4496-4D66-939F-6E187A4337AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8A3BC2-4496-4D66-939F-6E187A4337AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8A3BC2-4496-4D66-939F-6E187A4337AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4A7AC8-324D-400D-AE5D-236BC9341C17}
+	EndGlobalSection
+EndGlobal
