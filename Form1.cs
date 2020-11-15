@@ -34,8 +34,8 @@ namespace ListaTubeLe
             {
                 using (Ftp client = new Ftp())
                 {
-                    client.Connect("ftp.tele-tudo.com");
-                    client.Login("teletu76", "bPruC717y0");
+                    client.Connect("ftp....");
+                    client.Login("X", "Y");
                     string path = System.AppDomain.CurrentDomain.BaseDirectory.ToString() + @"ListaTube.xml";
                     client.Download("/public_html/letube/FtpTrial-ListaTube.xml", path);
                     dsResultado.ReadXml(path);
